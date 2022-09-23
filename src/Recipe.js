@@ -1,5 +1,5 @@
 import React from "react";
-import style from './Recipe.css';
+import style from './recipe.module.css';
   
 const Recipe = ({title,calories,image,ingredients}) =>{
     return(
