@@ -7,7 +7,7 @@
     flex-direction: column;
     justify-content: space-around;
     background-image: linear-gradient(to right, 
-        lightsalmon 30%, aqua 100%);
+        lightsalmon 30%, rgb(109, 245, 245) 100%);
     align-items: center;
     min-width: 35%;
     font-family: 'fantasy', copperplate;   
