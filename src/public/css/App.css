@@ -36,6 +36,8 @@ h1 {
   border:none;
   padding: 10px;
   border-radius: 5px;
+  font-size: 21px;
+  font-family: copperplate;
   box-shadow: 5px 6px 5px black;
 }
 .search-button{
