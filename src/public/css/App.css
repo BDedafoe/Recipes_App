@@ -3,7 +3,7 @@
 }
 
 body{
-  background: url('AppBackground.jpg');
+  background: url('../images/AppBackground.jpg');
   height: 100vh;
   position: static;
   font-family: copperplate;
